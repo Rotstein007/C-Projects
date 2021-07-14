@@ -1,13 +1,13 @@
 # C-Projects
 
-Here are my old C-Projects combined, wich I'm updating soon™ :)
+Here are all my *public* C-Projects combined, which I'm updating soon™ :)
 
 Short list of things you can find here:
 
 - Solving the Traveling Salesman Problem
 - Calculate some basic math
-- using lots of libraries (some are custom)
-- testing some funktions and trying to get them work xD
+- Using lots of libraries (some are custom)
+- Testing some functions and trying to get them work ...
 - Using a window for graphic creation
 - & some more :-)
 
