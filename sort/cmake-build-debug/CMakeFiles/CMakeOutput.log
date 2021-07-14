@@ -1,0 +1,215 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Users/felix/Documents/winbuild/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Users/felix/Documents/winbuild/bin/mingw32-make.exe -f Makefile cmTC_f545b/fast && C:/Users/felix/Documents/winbuild/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f545b.dir\build.make CMakeFiles/cmTC_f545b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f545b.dir/CMakeCCompilerABI.c.obj
+C:\Users\felix\Documents\winbuild\bin\gcc.exe   -v -o CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj -c C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\share\cmake-3.20\Modules\CMakeCCompilerABI.c
+Reading specs from c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/specs
+COLLECT_GCC=C:\Users\felix\Documents\winbuild\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-4.8.3/configure --prefix=/opt/windows_64 --with-sysroot=/opt/windows_64 --libdir=/opt/windows_64/lib64 --mandir=/opt/windows_64/man --infodir=/opt/windows_64/info --enable-shared --disable-bootstrap --disable-multilib --enable-threads=posix --enable-languages=c,c++ --enable-checking=release --enable-libgomp --with-system-zlib --with-python-dir=/lib64/python2.7/site-packages --disable-libunwind-exceptions --enable-__cxa_atexit --enable-libssp --with-gnu-ld --verbose --enable-java-home --with-java-home=/opt/windows_64/lib64/jvm/jre --with-jvm-root-dir=/opt/windows_64/lib64/jvm --with-jvm-jar-dir=/opt/windows_64/lib64/jvm/jvm-exports --with-arch-directory=amd64 --with-antlr-jar='/home/adrien/projects/win-builds-1.5/slackware64-current/d/gcc/antlr-*.jar' --disable-java-awt --disable-gtktest --build=x86_64-slackware-linux --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32
+Thread model: posix
+gcc version 4.8.3 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/cc1.exe -quiet -v -iprefix c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/ -D_REENTRANT -IC:/Users/felix/Documents/winbuild/include C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\share\cmake-3.20\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\felix\AppData\Local\Temp\ccjUHO3F.s
+GNU C (GCC) version 4.8.3 (x86_64-w64-mingw32)
+	compiled by GNU C version 4.8.3, GMP version 5.1.3, MPFR version 3.1.2, MPC version 0.8.2
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"
+ignoring nonexistent directory "/opt/windows_64/opt/windows_64/lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include"
+ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"
+ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "/opt/windows_64/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:/Users/felix/Documents/winbuild/include
+ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include
+ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed
+ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C (GCC) version 4.8.3 (x86_64-w64-mingw32)
+	compiled by GNU C version 4.8.3, GMP version 5.1.3, MPFR version 3.1.2, MPC version 0.8.2
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 88950af95bccaa8c19f032b0ac36794b
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj C:\Users\felix\AppData\Local\Temp\ccjUHO3F.s
+GNU assembler version 2.24 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24
+COMPILER_PATH=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/;c:/users/felix/documents/winbuild/bin/../libexec/gcc/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_f545b.exe
+C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_f545b.dir\link.txt --verbose=1
+C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cmTC_f545b.dir/objects.a
+C:\Users\felix\Documents\winbuild\bin\ar.exe cr CMakeFiles\cmTC_f545b.dir/objects.a @CMakeFiles\cmTC_f545b.dir\objects1.rsp
+C:\Users\felix\Documents\winbuild\bin\gcc.exe  -v -Wl,--whole-archive CMakeFiles\cmTC_f545b.dir/objects.a -Wl,--no-whole-archive -o cmTC_f545b.exe -Wl,--out-implib,libcmTC_f545b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Reading specs from c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/specs
+COLLECT_GCC=C:\Users\felix\Documents\winbuild\bin\gcc.exe
+COLLECT_LTO_WRAPPER=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../gcc-4.8.3/configure --prefix=/opt/windows_64 --with-sysroot=/opt/windows_64 --libdir=/opt/windows_64/lib64 --mandir=/opt/windows_64/man --infodir=/opt/windows_64/info --enable-shared --disable-bootstrap --disable-multilib --enable-threads=posix --enable-languages=c,c++ --enable-checking=release --enable-libgomp --with-system-zlib --with-python-dir=/lib64/python2.7/site-packages --disable-libunwind-exceptions --enable-__cxa_atexit --enable-libssp --with-gnu-ld --verbose --enable-java-home --with-java-home=/opt/windows_64/lib64/jvm/jre --with-jvm-root-dir=/opt/windows_64/lib64/jvm --with-jvm-jar-dir=/opt/windows_64/lib64/jvm/jvm-exports --with-arch-directory=amd64 --with-antlr-jar='/home/adrien/projects/win-builds-1.5/slackware64-current/d/gcc/antlr-*.jar' --disable-java-awt --disable-gtktest --build=x86_64-slackware-linux --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32
+Thread model: posix
+gcc version 4.8.3 (GCC) 
+COMPILER_PATH=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/;c:/users/felix/documents/winbuild/bin/../libexec/gcc/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f545b.exe' '-mtune=generic' '-march=x86-64'
+ c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/collect2.exe --sysroot=/opt/windows_64 -m i386pep -Bdynamic -o cmTC_f545b.exe c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3 -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib --whole-archive CMakeFiles\cmTC_f545b.dir/objects.a --no-whole-archive --out-implib libcmTC_f545b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -LC:/Users/felix/Documents/winbuild/lib64 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o
+mingw32-make.exe[1]: Leaving directory 'C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [C:/Users/felix/Documents/winbuild/include]
+    add: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/include]
+    add: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed]
+    add: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include]
+  end of search list found
+  collapse include dir [C:/Users/felix/Documents/winbuild/include] ==> [C:/Users/felix/Documents/winbuild/include]
+  collapse include dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/include] ==> [C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3/include]
+  collapse include dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed] ==> [C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed]
+  collapse include dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/include]
+  implicit include dirs: [C:/Users/felix/Documents/winbuild/include;C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3/include;C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed;C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/Users/felix/Documents/winbuild/bin/mingw32-make.exe -f Makefile cmTC_f545b/fast && C:/Users/felix/Documents/winbuild/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f545b.dir\build.make CMakeFiles/cmTC_f545b.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/felix/Documents/C-Projects/sort/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_f545b.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\Users\felix\Documents\winbuild\bin\gcc.exe   -v -o CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj -c C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\share\cmake-3.20\Modules\CMakeCCompilerABI.c]
+  ignore line: [Reading specs from c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/specs]
+  ignore line: [COLLECT_GCC=C:\Users\felix\Documents\winbuild\bin\gcc.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../gcc-4.8.3/configure --prefix=/opt/windows_64 --with-sysroot=/opt/windows_64 --libdir=/opt/windows_64/lib64 --mandir=/opt/windows_64/man --infodir=/opt/windows_64/info --enable-shared --disable-bootstrap --disable-multilib --enable-threads=posix --enable-languages=c,c++ --enable-checking=release --enable-libgomp --with-system-zlib --with-python-dir=/lib64/python2.7/site-packages --disable-libunwind-exceptions --enable-__cxa_atexit --enable-libssp --with-gnu-ld --verbose --enable-java-home --with-java-home=/opt/windows_64/lib64/jvm/jre --with-jvm-root-dir=/opt/windows_64/lib64/jvm --with-jvm-jar-dir=/opt/windows_64/lib64/jvm/jvm-exports --with-arch-directory=amd64 --with-antlr-jar='/home/adrien/projects/win-builds-1.5/slackware64-current/d/gcc/antlr-*.jar' --disable-java-awt --disable-gtktest --build=x86_64-slackware-linux --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.8.3 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/cc1.exe -quiet -v -iprefix c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/ -D_REENTRANT -IC:/Users/felix/Documents/winbuild/include C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\share\cmake-3.20\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\felix\AppData\Local\Temp\ccjUHO3F.s]
+  ignore line: [GNU C (GCC) version 4.8.3 (x86_64-w64-mingw32)]
+  ignore line: [	compiled by GNU C version 4.8.3  GMP version 5.1.3  MPFR version 3.1.2  MPC version 0.8.2]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"]
+  ignore line: [ignoring nonexistent directory "/opt/windows_64/opt/windows_64/lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/users/felix/documents/winbuild/lib64/gcc/../../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"]
+  ignore line: [ignoring nonexistent directory "/opt/windows_64/mingw/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ C:/Users/felix/Documents/winbuild/include]
+  ignore line: [ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include]
+  ignore line: [ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed]
+  ignore line: [ c:\users\felix\documents\winbuild\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C (GCC) version 4.8.3 (x86_64-w64-mingw32)]
+  ignore line: [	compiled by GNU C version 4.8.3  GMP version 5.1.3  MPFR version 3.1.2  MPC version 0.8.2]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 88950af95bccaa8c19f032b0ac36794b]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj C:\Users\felix\AppData\Local\Temp\ccjUHO3F.s]
+  ignore line: [GNU assembler version 2.24 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24]
+  ignore line: [COMPILER_PATH=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../libexec/gcc/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_f545b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_f545b.exe]
+  ignore line: [C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_f545b.dir\link.txt --verbose=1]
+  ignore line: [C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cmTC_f545b.dir/objects.a]
+  ignore line: [C:\Users\felix\Documents\winbuild\bin\ar.exe cr CMakeFiles\cmTC_f545b.dir/objects.a @CMakeFiles\cmTC_f545b.dir\objects1.rsp]
+  ignore line: [C:\Users\felix\Documents\winbuild\bin\gcc.exe  -v -Wl --whole-archive CMakeFiles\cmTC_f545b.dir/objects.a -Wl --no-whole-archive -o cmTC_f545b.exe -Wl --out-implib libcmTC_f545b.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+  ignore line: [Reading specs from c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/specs]
+  ignore line: [COLLECT_GCC=C:\Users\felix\Documents\winbuild\bin\gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/lto-wrapper.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../gcc-4.8.3/configure --prefix=/opt/windows_64 --with-sysroot=/opt/windows_64 --libdir=/opt/windows_64/lib64 --mandir=/opt/windows_64/man --infodir=/opt/windows_64/info --enable-shared --disable-bootstrap --disable-multilib --enable-threads=posix --enable-languages=c,c++ --enable-checking=release --enable-libgomp --with-system-zlib --with-python-dir=/lib64/python2.7/site-packages --disable-libunwind-exceptions --enable-__cxa_atexit --enable-libssp --with-gnu-ld --verbose --enable-java-home --with-java-home=/opt/windows_64/lib64/jvm/jre --with-jvm-root-dir=/opt/windows_64/lib64/jvm --with-jvm-jar-dir=/opt/windows_64/lib64/jvm/jvm-exports --with-arch-directory=amd64 --with-antlr-jar='/home/adrien/projects/win-builds-1.5/slackware64-current/d/gcc/antlr-*.jar' --disable-java-awt --disable-gtktest --build=x86_64-slackware-linux --host=x86_64-w64-mingw32 --target=x86_64-w64-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.8.3 (GCC) ]
+  ignore line: [COMPILER_PATH=c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../libexec/gcc/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/]
+  ignore line: [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f545b.exe' '-mtune=generic' '-march=x86-64']
+  link line: [ c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/collect2.exe --sysroot=/opt/windows_64 -m i386pep -Bdynamic -o cmTC_f545b.exe c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3 -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib --whole-archive CMakeFiles\cmTC_f545b.dir/objects.a --no-whole-archive --out-implib libcmTC_f545b.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -LC:/Users/felix/Documents/winbuild/lib64 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
+    arg [c:/users/felix/documents/winbuild/bin/../libexec/gcc/x86_64-w64-mingw32/4.8.3/collect2.exe] ==> ignore
+    arg [--sysroot=/opt/windows_64] ==> ignore
+    arg [-m] ==> ignore
+    arg [i386pep] ==> ignore
+    arg [-Bdynamic] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_f545b.exe] ==> ignore
+    arg [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+    arg [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o] ==> obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o]
+    arg [-Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3] ==> dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3]
+    arg [-Lc:/users/felix/documents/winbuild/bin/../lib64/gcc] ==> dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc]
+    arg [-Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib]
+    arg [-Lc:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib] ==> dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib]
+    arg [--whole-archive] ==> ignore
+    arg [CMakeFiles\cmTC_f545b.dir/objects.a] ==> ignore
+    arg [--no-whole-archive] ==> ignore
+    arg [--out-implib] ==> ignore
+    arg [libcmTC_f545b.dll.a] ==> ignore
+    arg [--major-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [--minor-image-version] ==> ignore
+    arg [0] ==> ignore
+    arg [-lmingw32] ==> lib [mingw32]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lgcc_eh] ==> lib [gcc_eh]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ladvapi32] ==> lib [advapi32]
+    arg [-lshell32] ==> lib [shell32]
+    arg [-luser32] ==> lib [user32]
+    arg [-lkernel32] ==> lib [kernel32]
+    arg [-LC:/Users/felix/Documents/winbuild/lib64] ==> dir [C:/Users/felix/Documents/winbuild/lib64]
+    arg [-lmingw32] ==> lib [mingw32]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lgcc_eh] ==> lib [gcc_eh]
+    arg [-lmoldname] ==> lib [moldname]
+    arg [-lmingwex] ==> lib [mingwex]
+    arg [-lmsvcrt] ==> lib [msvcrt]
+    arg [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o] ==> obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o]
+  remove lib [gcc_eh]
+  remove lib [msvcrt]
+  remove lib [gcc_eh]
+  remove lib [msvcrt]
+  collapse obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crt2.o]
+  collapse obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtbegin.o] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crtbegin.o]
+  collapse obj [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib/crtend.o] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crtend.o]
+  collapse library dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3] ==> [C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3]
+  collapse library dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc] ==> [C:/Users/felix/Documents/winbuild/lib64/gcc]
+  collapse library dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib]
+  collapse library dir [c:/users/felix/documents/winbuild/bin/../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib]
+  collapse library dir [C:/Users/felix/Documents/winbuild/lib64] ==> [C:/Users/felix/Documents/winbuild/lib64]
+  implicit libs: [mingw32;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex]
+  implicit objs: [C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crt2.o;C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crtbegin.o;C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib/crtend.o]
+  implicit dirs: [C:/Users/felix/Documents/winbuild/lib64/gcc/x86_64-w64-mingw32/4.8.3;C:/Users/felix/Documents/winbuild/lib64/gcc;C:/Users/felix/Documents/winbuild/x86_64-w64-mingw32/lib;C:/Users/felix/Documents/winbuild/lib64]
+  implicit fwks: []
+
+

@@ -1,0 +1,3 @@
+C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\sort.dir/objects.a
+C:\Users\felix\Documents\winbuild\bin\ar.exe cr CMakeFiles\sort.dir/objects.a @CMakeFiles\sort.dir\objects1.rsp
+C:\Users\felix\Documents\winbuild\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\sort.dir/objects.a -Wl,--no-whole-archive -o sort.exe -Wl,--out-implib,libsort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sort.dir\linklibs.rsp
