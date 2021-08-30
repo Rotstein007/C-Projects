@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/Documents/C-Projects/create_window/main.c
+stdio.h
+-
+../SDL2/SDL.h
+C:/Users/felix/Documents/C-Projects/SDL2/SDL.h
+
