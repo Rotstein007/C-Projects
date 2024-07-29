@@ -1,3 +1,0 @@
-C:/Users/felix/Documents/C-Projects/create_window/cmake-build-debug/CMakeFiles/create_window.dir
-C:/Users/felix/Documents/C-Projects/create_window/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/felix/Documents/C-Projects/create_window/cmake-build-debug/CMakeFiles/rebuild_cache.dir

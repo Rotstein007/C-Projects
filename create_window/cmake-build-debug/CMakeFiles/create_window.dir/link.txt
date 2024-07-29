@@ -1,3 +1,0 @@
-C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\create_window.dir/objects.a
-C:\Users\felix\Documents\winbuild\bin\ar.exe cr CMakeFiles\create_window.dir/objects.a @CMakeFiles\create_window.dir\objects1.rsp
-C:\Users\felix\Documents\winbuild\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\create_window.dir/objects.a -Wl,--no-whole-archive -o create_window.exe -Wl,--out-implib,libcreate_window.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\create_window.dir\linklibs.rsp
