@@ -12,7 +12,7 @@ int main(){
         printf("%.100Lf\n", ausgabe);
     }
 
-    printf("\n%.100Lf\n\n", ausgabe);
+    printf("\n%.60Lf\n\n", ausgabe);
 
     return 0;
 }

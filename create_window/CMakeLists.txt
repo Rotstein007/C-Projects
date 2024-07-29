@@ -1,7 +1,5 @@
-cmake_minimum_required(VERSION 3.20)
-project(create_window C)
+find_package(SDL2 REQUIRED)
+include_directories(${SDL2_INCLUDE_DIRS})
 
-set(CMAKE_C_STANDARD 11)
-
-add_executable(create_window
-        main.c)
+add_executable(create_window main.c)
+target_link_libraries(create_window ${SDL2_LIBRARIES})

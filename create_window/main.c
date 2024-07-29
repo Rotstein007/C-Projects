@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"../SDL2/SDL.h"
+#include"SDL2/SDL.h"
 
 #define WINDOW_WIDTH 1000
 #define WINDOW_HEIGHT 700
@@ -8,17 +8,17 @@
 
 //static SDL_Point points[POINTS_COUNT];
 
+float quadrat(float input){
+	input = input * input;
+	return input;
+}
+
 int main(){
 	
 	int k = 1;
 	float z = 0;
 	static SDL_Point y[POINTS_COUNT];
 	int terminate;
-
-	float quadrat(float input){
-		input = input * input;
-		return input;
-	}
 
 	for(int i = 0; i < POINTS_COUNT; i++){
 		y[i].y = WINDOW_HEIGHT - quadrat(i);
