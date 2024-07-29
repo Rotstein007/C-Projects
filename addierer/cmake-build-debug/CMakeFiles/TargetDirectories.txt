@@ -1,3 +1,0 @@
-C:/Users/felix/Documents/C-Projects/addierer/cmake-build-debug/CMakeFiles/addierer.dir
-C:/Users/felix/Documents/C-Projects/addierer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/felix/Documents/C-Projects/addierer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

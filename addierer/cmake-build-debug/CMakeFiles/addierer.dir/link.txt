@@ -1,3 +1,0 @@
-C:\Users\felix\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.4638.8\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\addierer.dir/objects.a
-C:\Users\felix\Documents\winbuild\bin\ar.exe cr CMakeFiles\addierer.dir/objects.a @CMakeFiles\addierer.dir\objects1.rsp
-C:\Users\felix\Documents\winbuild\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\addierer.dir/objects.a -Wl,--no-whole-archive -o addierer.exe -Wl,--out-implib,libaddierer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\addierer.dir\linklibs.rsp
